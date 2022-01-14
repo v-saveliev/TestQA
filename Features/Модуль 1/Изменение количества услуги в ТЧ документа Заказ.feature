@@ -1,6 +1,7 @@
 ﻿#language: ru
 
-@tree
+@ExportScenarios
+@IgnoreOnCIMainBuild
 
 Функционал: изменение количества в строке для услуги в ТЧ документа Заказ
 
