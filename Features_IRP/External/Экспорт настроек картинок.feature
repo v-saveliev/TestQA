@@ -17,8 +17,8 @@
 
 	И я перезаполняю для объекта табличную часть "ConnectionSetting":
 		| 'Ref'                                                                         | 'Key'         | 'Value'                               |
-		| 'e1cib/data/Catalog.IntegrationSettings?ref=b772dbcd8801bc7611ec420177a49494' | 'AddressPath' | 'C:\\Users\\Seramiti\\Documents\\Source'  |
-		| 'e1cib/data/Catalog.IntegrationSettings?ref=b772dbcd8801bc7611ec420177a49495' | 'AddressPath' | 'C:\\Users\\Seramiti\\Documents\\Preview' |
+		| 'e1cib/data/Catalog.IntegrationSettings?ref=b772dbcd8801bc7611ec420177a49494' | 'AddressPath' | 'D:\\Learning\\1C\\АвтоТестирование_VA\\030 Дополнительные методические материалы\\Методические материалы к Модулю 4\\Files'  |
+		| 'e1cib/data/Catalog.IntegrationSettings?ref=b772dbcd8801bc7611ec420177a49495' | 'AddressPath' | 'D:\\Learning\\1C\\АвтоТестирование_VA\\030 Дополнительные методические материалы\\Методические материалы к Модулю 4\\Files' |
 
 	И я перезаполняю константу "DefaultPictureStorageVolume" значением "e1cib/data/Catalog.FileStorageVolumes?ref=b772dbcd8801bc7611ec420177a49496"
 
